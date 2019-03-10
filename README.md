@@ -71,9 +71,7 @@ Give an example
 
 ## Author
 
-**Ben Vega** - *CSS and Materilize Framework, UI/UX* - [Project2](https://github.com/Project2)
-
-See also list of [contributors](https://github.com/Project2/contributors)
+**Ben Vega** - [GitHub](https://bvega03.github.io/Clicky-Game/)
 
 ## Acknowledgments
 
