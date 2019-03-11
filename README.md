@@ -11,13 +11,24 @@ Once the user's score is reset after an incorrect guess, the game will restart.
 - Update READme
 
 ## Getting Started
+These instructions will get you a copy of the project up and running on your local machine
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+- [Clicky-Game](https://bvega03.github.io/Clicky-Game/)
+
+or
+
+- ```git clone``` https://github.com/BVega03/Clicky-Game.git
+
+From the clicky-game directory:
+```npm start``` and use the localhost server address (3000 or 5000)
+
+![](/clicky-game/public/Images/npm-start-screenshot.PNG?raw=true "Start")
 
 ## Deployment
 
 ```npm run build```
-![Build](../15-Clicky-Game/Images/npm-run-build-screenshot.png?raw=true "Deploy")
+
+![](/clicky-game/public/Images/npm-run-build-screenshot.PNG?raw=true "Deploy")
 
 ## Built With
 |  |  |  |  |
