@@ -1,0 +1,37 @@
+nav {
+    width: 100%;
+    font-size: 3rem;
+    color: rgb(255, 188, 4);
+    margin-bottom: 10px;
+    background-color: rgb(15, 3, 119);
+    height: auto;
+    font-family: 'Luckiest Guy', cursive;
+  }
+  
+  a {
+    color: #ce0404;
+  }
+  
+  a:hover {
+    color: #080804;
+    text-decoration: none;
+  }
+  
+  nav li {
+    display: inline-block;
+    padding: 20px 0;
+    width: 25%;
+    /* text-align: center; */
+  }
+  
+  ul {
+    /* padding-left: 0px; */
+    display: flex;
+    align-items: center;
+  }
+  
+  @media only screen and (max-width: 750px) {
+    #cur-sco, #top-sco {
+      font-size: 2rem;
+    }
+  }
