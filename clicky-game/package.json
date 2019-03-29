@@ -2,7 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://clicky-game.github.io/myapp",
+  "homepage": "http://clicky-game.github.io/my-app",
   "dependencies": {
     "express": "^4.16.4",
     "gh-pages": "^2.0.1",
