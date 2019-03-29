@@ -13,7 +13,7 @@ Once the user's score is reset after an incorrect guess, the game will restart.
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine
 
-- [Clicky-Game](https://bvega03.github.io/Clicky-Game/)
+- [Clicky-Game](http://clicky-game.github.io/my-app)
 
 or
 
